@@ -1,4 +1,4 @@
-# Привет 👋 Я Denis Davydenko
+# Hello 👋 Я Denis Davydenko
 
 ### Middle QA Engineer (API / Backend / Integration)  
 ### Middle Support Engineer (L2)
@@ -74,16 +74,16 @@ Typical production issue analysis:
 
 ## 📄 Resume
 
-- HH.ru: [your link]
-- Habr Career: [your link]
-- LinkedIn: [your link]
+- HH.ru: [Middle QA Engineer (API / Backend / Integration)](https://vladimir.hh.ru/resume/b07ec85aff0d748b470039ed1f323454794f4f)
+- Habr Career: [denhelloworld](https://career.habr.com/denhelloworld)
+- LinkedIn: [Denis Davydenko](https://www.linkedin.com/in/denis-davidenko-00a99722b/)
 
 ---
 
 ## 📫 Contacts
 
-- Telegram: [@yourtelegram](https://t.me/yourtelegram)
-- Email: your@email.com
+- Telegram: [@denis_hello_world](https://t.me/denis_hello_world)
+- Email: denhelloworld@gmail.com
 
 ---
 
