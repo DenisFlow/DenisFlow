@@ -1,4 +1,4 @@
-# Hello 👋 Я Denis Davydenko
+# Hello 👋 I'm Denis Davydenko
 
 ### Middle QA Engineer (API / Backend / Integration)  
 ### Middle Support Engineer (L2)
