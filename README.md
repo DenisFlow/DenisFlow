@@ -64,14 +64,6 @@ Typical production issue analysis:
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=DenisFlow&show_icons=true&hide_rank=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisFlow&layout=compact)
-
----
-
 ## 📄 Resume
 
 - HH.ru: [Middle QA Engineer (API / Backend / Integration)](https://vladimir.hh.ru/resume/b07ec85aff0d748b470039ed1f323454794f4f)
